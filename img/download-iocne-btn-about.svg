@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="22.27" height="25.132" viewBox="0 0 22.27 25.132">
+  <g id="icone-download" transform="translate(-27.9)">
+    <g id="Group_2" data-name="Group 2" transform="translate(27.9)">
+      <g id="Group_1" data-name="Group 1" transform="translate(0)">
+        <path id="Path_2" data-name="Path 2" d="M145.077,0a.882.882,0,0,0-.882.882V17.87l-3.016-3.016a.881.881,0,1,0-1.246,1.246l4.519,4.519a.879.879,0,0,0,1.241,0l4.519-4.519a.881.881,0,1,0-1.246-1.246l-3.016,3.016V.877A.866.866,0,0,0,145.077,0Z" transform="translate(-133.942)" fill="#fff"/>
+        <path id="Path_3" data-name="Path 3" d="M50.17,362v-5.114a.882.882,0,0,0-1.764,0v4.237H29.659v-4.237a.88.88,0,1,0-1.759,0V362a.878.878,0,0,0,.882.877H49.288A.878.878,0,0,0,50.17,362Z" transform="translate(-27.9 -337.741)" fill="#fff"/>
+      </g>
+    </g>
+  </g>
+</svg>
